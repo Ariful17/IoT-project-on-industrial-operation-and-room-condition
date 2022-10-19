@@ -12,4 +12,5 @@ Sensors used-
 - MQ2 gas sensor
 - IR sensor for counter
 
-Nodemcu uses SPIFFS protocol to host a dynamic webpage and present the respective sensor data
+Nodemcu uses SPIFFS protocol to host a dynamic webpage and present the respective sensor data.<br>
+Be sure to organize your files in the same manner as shown on layput jpg
