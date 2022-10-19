@@ -227,7 +227,7 @@ void setup() {
   
 
     server.on("/", HTTP_GET, [](AsyncWebServerRequest *request){
-    request->send(SPIFFS, "/project.html");
+    request->send(SPIFFS, "/webpage.html");
    });
   server.on("/pressure", HTTP_GET, [](AsyncWebServerRequest * request) {
     request->send_P(200, "text/plain", getPressure().c_str());
