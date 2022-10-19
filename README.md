@@ -13,4 +13,4 @@ Sensors used-
 - IR sensor for counter
 
 Nodemcu uses SPIFFS protocol to host a dynamic webpage and present the respective sensor data.<br>
-Be sure to organize your files in the same manner as shown on layput jpg
+Be sure to organize your files in the same manner as shown on layout.jpg
